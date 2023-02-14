@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 45
+ETag: W/"2d-sl8nPyXN7NdaAxengUbj1qrbR3g"
+Date: Tue, 14 Feb 2023 16:29:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"appData":false,"appDataPath":"/app/config"}

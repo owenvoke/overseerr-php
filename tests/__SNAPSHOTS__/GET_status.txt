@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 109
+ETag: W/"6d-kWDmG6vcyH6wtI/0TqYtMsyeTOo"
+Date: Tue, 14 Feb 2023 16:29:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"version":"1.32.5","commitTag":"$GIT_SHA","updateAvailable":false,"commitsBehind":0,"restartRequired":false}

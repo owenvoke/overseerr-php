@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 1800
+ETag: W/"708-qdeRJtjmN3fyGfXJFFweA8/QwmM"
+Date: Tue, 14 Feb 2023 16:29:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"pageInfo":{"pages":1,"pageSize":20,"results":1,"page":1},"results":[{"id":1,"status":2,"createdAt":"2023-02-14T16:21:27.000Z","updatedAt":"2023-02-14T16:21:27.000Z","type":"tv","is4k":false,"serverId":null,"profileId":null,"rootFolder":null,"languageProfileId":null,"tags":[],"isAutoRequest":false,"media":{"downloadStatus":[],"downloadStatus4k":[],"id":1,"mediaType":"tv","tmdbId":100088,"tvdbId":392256,"imdbId":null,"status":3,"status4k":1,"createdAt":"2023-02-14T16:21:27.000Z","updatedAt":"2023-02-14T16:21:27.000Z","lastSeasonChange":"2023-02-14T16:21:27.000Z","mediaAddedAt":null,"serviceId":null,"serviceId4k":null,"externalServiceId":null,"externalServiceId4k":null,"externalServiceSlug":null,"externalServiceSlug4k":null,"ratingKey":null,"ratingKey4k":null},"seasons":[{"id":1,"seasonNumber":1,"status":2,"createdAt":"2023-02-14T16:21:27.000Z","updatedAt":"2023-02-14T16:21:27.000Z"}],"modifiedBy":{"permissions":2,"id":1,"email":"plex@example.org","plexUsername":"plexuser","username":null,"recoveryLinkExpirationDate":null,"userType":1,"plexId":123456,"avatar":"https://plex.tv/users/6b1af7ae68c011fa/avatar?c=1675031626","movieQuotaLimit":null,"movieQuotaDays":null,"tvQuotaLimit":null,"tvQuotaDays":null,"createdAt":"2023-02-14T16:17:46.000Z","updatedAt":"2023-02-14T16:17:46.000Z","requestCount":1,"displayName":"plexuser"},"requestedBy":{"permissions":2,"id":1,"email":"plex@example.org","plexUsername":"plexuser","username":null,"recoveryLinkExpirationDate":null,"userType":1,"plexId":123456,"avatar":"https://plex.tv/users/6b1af7ae68c011fa/avatar?c=1675031626","movieQuotaLimit":null,"movieQuotaDays":null,"tvQuotaLimit":null,"tvQuotaDays":null,"createdAt":"2023-02-14T16:17:46.000Z","updatedAt":"2023-02-14T16:17:46.000Z","requestCount":1,"displayName":"plexuser"},"seasonCount":1}]}

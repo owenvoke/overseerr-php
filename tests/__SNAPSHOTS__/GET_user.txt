@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 500
+ETag: W/"1f4-iGf5QuaRYxBu5FcT9GpY1UDGF0Y"
+Date: Tue, 14 Feb 2023 16:29:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"pageInfo":{"pages":1,"pageSize":10,"results":1,"page":1},"results":[{"permissions":2,"id":1,"email":"plex@example.org","plexUsername":"plexuser","username":null,"recoveryLinkExpirationDate":null,"userType":1,"plexId":123456,"avatar":"https://plex.tv/users/6b1af7ae68c011fa/avatar?c=1675031626","movieQuotaLimit":null,"movieQuotaDays":null,"tvQuotaLimit":null,"tvQuotaDays":null,"createdAt":"2023-02-14T16:17:46.000Z","updatedAt":"2023-02-14T16:17:46.000Z","requestCount":1,"displayName":"plexuser"}]}
